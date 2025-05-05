@@ -19,7 +19,7 @@ A sample of the SCGM dataset. (Spinal Cord - Green & Grey Matter - Red)
 - SimpleITK: 2.5.0
 - segmentation_models_pytorch: 0.5.0
 - medpy: 0.5.2
-- PyTorch: 2.1.2
+- PyTorch: 2.2.0
 ## Run
 `python main.py --data_path PATH_TO_DATASET_FOLDER --model_path PATH_TO_SAVED_MODL`
 
