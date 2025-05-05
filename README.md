@@ -14,6 +14,10 @@ Vanderbilt) using three different MRI devices (Philips Acheiva, Siemens Trio, Si
 
 
 ## Run
+`python main.py --data_path PATH_TO_DATASET_FOLDER --model_path PATH_TO_SAVED_MODL`
 
+Note: the model path is needed only when you want to train from a checkpoint.
 
 ## Result
+
+
